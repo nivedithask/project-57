@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+margin: 0;
+}
+
+#hi{
+   color: aqua;
+    border: solid blue 5px;
+}
+
+#me{
+color: coral;
+    font-size: 28px;
+}
+
+.headers{
+    color: darkmagenta;
+    font-size: 25px;
+    font-variant: small-caps;
+    
+}
+
+.images{
+   border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#books{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#origami{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#piano{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#bharatnatyam{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#coding{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#doodles{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+#cardboard{
+    font-size:23px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+section{
+    background-color: skyblue;
+}
